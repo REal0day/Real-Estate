@@ -31,3 +31,6 @@ OD = 0
 ```
 E = FMV - MPO - L - OD
 $210k - $50k
+
+
+ARV = Property's Current Value + Value of Renovations
