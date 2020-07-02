@@ -15,6 +15,8 @@ OE: Original Equity in the property at the time of purchase.
 
 ```
 E = FMV - MPO - L - OD
+
+Equity = (Fair Market Value of the property + Closing Costs) - (Mortgage Payoff Amount) - (Liens) - (Other Debts on the Property)
 ```
 E: Your Equity in the property
 FMV: Fair Market Value of the property + Closing Costs
@@ -32,5 +34,24 @@ OD = 0
 E = FMV - MPO - L - OD
 $210k - $50k
 
+```
 
-ARV = Property's Current Value + Value of Renovations
+After Renovation Value
+```ARV = Property's Current Value + Value of Renovations
+```
+
+Appreciation
+```
+(Present Value - Original Value) / Original Value
+$400k Fourplex a year ago, and now it's worth $426,800
+A = ($426,800 - $400k) / $400k
+A = $26,800 / $400k
+A = 0.067
+It's apprecaited 6.7%
+```
+
+Future Value Calculation
+````Future Value = Present Value * (1 + Percentage Increase Factor)
+$400k Fourplex and we know the appreciation rate is 6.7%
+```
+
